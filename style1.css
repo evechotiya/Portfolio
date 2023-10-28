@@ -924,6 +924,19 @@ nav ul li a.active::after{
     
     .section__pic-container {
         height: 40%;
+        left: 1%;
+        bottom: 30%;
+        
+    }
+    .detel{
+        margin-top: 264px;
+    }
+    
+    
+}
+@media (max-width: 414px){
+    .section__pic-container {
+        height: 40%;
         left: -10%;
         bottom: 30%;
         
@@ -931,8 +944,6 @@ nav ul li a.active::after{
     .detel{
         margin-top: 350px;
     }
-    
-    
 }
 
  
@@ -957,7 +968,7 @@ nav ul li a.active::after{
 @media (max-width: 390px){
     
     .detel{
-        margin-top:390px;
+        margin-top:259px;
         
     }
     
