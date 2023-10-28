@@ -431,9 +431,7 @@ nav ul li a.active::after{
         left: 30%;
         bottom: 10%;
     }
-    .detel{
-        margin-top: 16%;
-    }
+    
     
     
 }
@@ -444,7 +442,7 @@ nav ul li a.active::after{
     
     .section__pic-container {
         height: 60%;
-        left: 30%;
+        left: 25%;
         
     }
     
@@ -464,7 +462,9 @@ nav ul li a.active::after{
 @media only screen and (max-width:1144px){
     .section__pic-container {
         
+        height: 35%;
         left: 30%;
+        margin-bottom: 50%;
         
     }
     
@@ -590,8 +590,8 @@ nav ul li a.active::after{
 
 @media only screen and (max-width:874px){
     .section__pic-container{
-        height: 38%;
-        margin-bottom: 20%;
+        height: 35%;
+        margin-bottom: 38%;
         
     }
     
@@ -791,9 +791,9 @@ nav ul li a.active::after{
         cursor: pointer;
     }
     .section__pic-container {
-        height: 45%;
+        height: 40%;
         left: 0;
-        margin-bottom: 32%;
+        margin-bottom: 45%;
         
     }
 
@@ -820,6 +820,9 @@ nav ul li a.active::after{
      .ab{
         margin-left: 30%;
         font-size: 100%;
+     }
+     .ab span{
+        font-size: 14px;
      }
      
      .sk{
@@ -922,7 +925,7 @@ nav ul li a.active::after{
     .section__pic-container {
         height: 40%;
         left: -10%;
-        bottom: 35%;
+        bottom: 30%;
         
     }
     .detel{
@@ -937,7 +940,7 @@ nav ul li a.active::after{
 @media (max-width: 393px){
     .section__pic-container{
         height: 40%;
-        margin-bottom: 20%;
+        margin-bottom: 30%;
 
     }
     .detel{
@@ -954,7 +957,7 @@ nav ul li a.active::after{
 @media (max-width: 390px){
     
     .detel{
-        margin-top:266px;
+        margin-top:390px;
         
     }
     
@@ -1008,7 +1011,7 @@ nav ul li a.active::after{
         
 }
     .detel{
-        margin-top:251px;
+        margin-top:270px;
         
     }
     .work-list{
