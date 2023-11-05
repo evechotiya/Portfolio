@@ -430,9 +430,9 @@ nav ul li a.active::after{
 
 @media only screen and (max-width:1600px){
     .section__pic-container {
-        height: 60%;
+        
         left: 30%;
-        bottom: 25%;
+        
     }
     
     
@@ -444,7 +444,7 @@ nav ul li a.active::after{
     
     
     .section__pic-container {
-        height: 45%;
+       
         left: 25%;
         top: 15%;
         
@@ -543,7 +543,7 @@ nav ul li a.active::after{
 @media only screen and (max-width:950px){
     .section__pic-container {
         height: 50%;
-        top: 13%;
+        top: 20%;
         
         
     }
@@ -780,14 +780,14 @@ nav ul li a.active::after{
         cursor: pointer;
     }
     .section__pic-container {
-        height: 40%;
+        height: 42%;
         left: 6%;
-        margin-bottom: 60%;
+        top: 8%;
         
     }
 
     .detel{
-        margin-top:330px;
+        margin-top:310px;
         margin-left: 60%;
         
     }
@@ -859,7 +859,7 @@ nav ul li a.active::after{
     }
 
     .detel{
-        margin-top:330px;
+        margin-top:300px;
         margin-left: 55%;
     }
     .work-list{
@@ -880,7 +880,7 @@ nav ul li a.active::after{
     }
 
     .detel{
-        margin-top:330px;
+        
         margin-left: 55%;
     }
     
@@ -898,12 +898,12 @@ nav ul li a.active::after{
 @media only screen and (max-width:480px){
     .section__pic-container {
         margin-bottom: 75%;
-        left: 5%;
+        left: 0%;
         
 }
     .detel{
-        margin-top:326px;
-        margin-left: 50%;
+        
+        margin-left: 55%;
         
         
     }
@@ -926,7 +926,7 @@ nav ul li a.active::after{
         
     }
     .detel{
-        margin-top: 324px;
+        margin-top: 290px;
     }
     
     
@@ -939,7 +939,7 @@ nav ul li a.active::after{
         
     }
     .detel{
-        margin-top: 264px;
+        margin-top: 290px;
     }
     
     
@@ -951,7 +951,7 @@ nav ul li a.active::after{
         
     }
     .detel{
-        margin-top: 350px;
+        margin-top: 290px;
     }
 }
 
@@ -964,7 +964,7 @@ nav ul li a.active::after{
 
     }
     .detel{
-        margin-top:325px;
+        margin-top:290px;
         
     }
     
@@ -996,11 +996,11 @@ nav ul li a.active::after{
 
 @media (max-width: 375px){
     .section__pic-container{
-        height: 40%;
+        height: 45%;
         top: 10%;
     }
 .detel{
-    margin-top:300px;
+    margin-top:270px;
     
 }
 
@@ -1010,11 +1010,7 @@ nav ul li a.active::after{
 }
 }
 @media (max-width: 360px){
-    .section__pic-container{
-        top: 5%;
-        
-
-    }
+    
     .detel{
         margin-top:284px;
         
@@ -1029,14 +1025,15 @@ nav ul li a.active::after{
 }
 @media (max-width: 320px){
     .section__pic-container {
-        height: 40%;
-        left: -10%;
+        height: 35%;
+        left: -5%;
+        
         
         
         
 }
     .detel{
-        margin-top:270px;
+        margin-top:260px;
         
     }
     .work-list{
